@@ -1,1 +1,3 @@
-# bitrix-zero
+# Bitrix zero
+
+Репозиторий пустого проекта Bitrix

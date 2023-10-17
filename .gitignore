@@ -1,0 +1,36 @@
+# bitrix
+/bitrix
+!/bitrix/php_interface/
+/bitrix/php_interface/dbconn.php
+
+# IDE
+.idea/*
+.vscode/*
+
+# Files
+/upload/
+/vendor/
+/vendor_js/
+/node_modules/
+/bin/
+/bower_components/
+/1c_manual/
+
+yandex_*.html
+google*.html
+sitemap*.xml
+
+
+composer.phar
+restore.php
+*.log
+*.sql
+*.txt
+*.xml
+*.dt
+*.swp
+*.swo
+*.DS_Store
+#*.gitignore
+
+/.htaccess
